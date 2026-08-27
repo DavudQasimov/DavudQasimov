@@ -1,4 +1,10 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Davud+Qasimov;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
 <img src="anonymous_GIF.gif" width="100%" alt="Banner">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Penetration+Testing;Red+Teaming;Web+Application+Pentesting;Active+Directory;Linux;Vulnerability+Assesment&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
 
 ## whoami
 Offensive Security Researcher | Junior Penetration Tester | Red Team Analyst
@@ -46,6 +52,9 @@ Offensive Security Researcher | Junior Penetration Tester | Red Team Analyst
 </div>
 
 <br/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=CyberSecurity;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
 
 <p align="center">
 <img src="https://i.redd.it/zlx4bhx1aq701.gif" width="40%" alt="Docker" />
