@@ -2,10 +2,15 @@
 Offensive Security Researcher | Junior Penetration Tester | Red Team Analyst
 
 🛡​Cybersecurity enthusiast focused on offensive security, penetration testing, and simulating real-world cyberattacks.
+
 ​🎯 Areas of Specialization:
+
 • ​🌐 Active Directory Security & Attacks: Enumeration, privilege escalation, lateral movement, and domain dominance techniques.
+
 • ​⚠️ Threat Emulation & Red Teaming: Aligning operations with the MITRE ATT&CK framework, mimicking advanced persistent threat (APT) tactics, techniques, and procedures (TTPs).
+
 • 🕸 ​Web Application Penetration Testing: Identifying and exploiting common security flaws based on the OWASP Top 10 (for Web applications and APIs), including broken access control, injection flaws, and business logic issues.
+
 ​• 🛜 Network Penetration Testing: Reconnaissance, vulnerability discovery, and exploitation across enterprise environments.
 
 🚀Open to professional networking, collaboration, and new career opportunities in Penetration Testing and Red Teaming.
