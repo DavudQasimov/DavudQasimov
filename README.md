@@ -1,4 +1,5 @@
-## whoami?Offensive Security Researcher | Junior Penetration Tester | Red Team Analyst
+## whoami?
+Offensive Security Researcher | Junior Penetration Tester | Red Team Analyst
 
 🛡​Cybersecurity enthusiast focused on offensive security, penetration testing, and simulating real-world cyberattacks.
 ​🎯 Areas of Specialization:
