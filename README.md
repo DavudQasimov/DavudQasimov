@@ -7,7 +7,7 @@
 </p>
 
 ## whoami
-Offensive Security Researcher | Junior Penetration Tester | Red Team Analyst
+Offensive Security Researcher
 
 🛡​Cybersecurity enthusiast focused on offensive security, penetration testing, and simulating real-world cyberattacks.
 
