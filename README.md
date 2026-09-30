@@ -21,6 +21,8 @@ Offensive Security Researcher | Security Tool Builder
 
 ​• 🛜 Network Penetration Testing: Reconnaissance, vulnerability discovery, and exploitation across enterprise environments.
 
+• 🛠️ Security Tools Development: Building custom tools for penetration testing, automation, and offensive security operations.
+
 🚀Open to professional networking, collaboration, and new career opportunities in Penetration Testing and Red Teaming.
 <p align="center">
 <img src="https://camo.githubusercontent.com/69b78bf847311bb515321d933f23c5363935d647802c55714d202ed7218b72bb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4b616c695f4c696e75782d3136316232323f7374796c653d666c61742d737175617265266c6f676f3d6b616c696c696e7578266c6f676f436f6c6f723d353861366666" width="10%" alt="Banner">
