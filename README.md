@@ -3,11 +3,11 @@
 </p>
 <img src="anonymous_GIF.gif" width="100%" alt="Banner">
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Penetration+Testing;Red+Teaming;Web+Application+Pentesting;Active+Directory;Linux;Vulnerability+Assesment&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Penetration+Testing;Red+Teaming;Web+Application+Pentesting;Active+Directory;Linux;Vulnerability+Assesment;Security+Tool+Development&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
 ## whoami
-Offensive Security Researcher
+Offensive Security Researcher | Security Tool Builder
 
 🛡​Cybersecurity enthusiast focused on offensive security, penetration testing, and simulating real-world cyberattacks.
 
